@@ -1,6 +1,6 @@
 import time
-from sensorstemp import TemperatureSensor
-from logger import LoggerService
+from sensortemp import TemperatureSensor
+from servicelogger import LoggerService
 from util import TemperatureStats
 
 
